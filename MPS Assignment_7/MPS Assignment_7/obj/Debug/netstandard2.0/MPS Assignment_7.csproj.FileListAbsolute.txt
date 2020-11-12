@@ -1,0 +1,14 @@
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\bin\Debug\netstandard2.0\MPS Assignment_7.deps.json
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\bin\Debug\netstandard2.0\MPS Assignment_7.dll
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\bin\Debug\netstandard2.0\ref\MPS Assignment_7.dll
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\bin\Debug\netstandard2.0\MPS Assignment_7.pdb
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.csprojAssemblyReference.cache
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.AssemblyInfoInputs.cache
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.AssemblyInfo.cs
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.csproj.CoreCompileInputs.cache
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.dll
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\ref\MPS Assignment_7.dll
+C:\Users\Shaqeel less\source\repos\MPS Assignment_7\MPS Assignment_7\MPS Assignment_7\obj\Debug\netstandard2.0\MPS Assignment_7.pdb
